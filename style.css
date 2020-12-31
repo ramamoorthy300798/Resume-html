@@ -1,0 +1,48 @@
+
+h2{
+    color: rgb(14, 92, 238);
+    text-align: justify;
+  text-decoration: underline; 
+  text-transform: capitalize;
+  line-height: 1.5;
+  text-indent: 20px;
+  text-shadow: chartreuse;
+  font-size: 30px;
+  font-weight:lighter;
+  font-family: 'Times New Roman',serif;
+  font-style:italic;
+  
+}
+h2,h1{
+  background-color: grey
+
+}
+
+.inner-container {
+  margin-bottom: 30px;
+}
+.table-class, 
+.table-class tr,
+.table-class td,
+.table-class th{
+  border: 1px solid #000;
+}
+.table-class td, .table-class th{
+  padding: 20px;
+}
+.table-class th{
+  background-color: rgb(235, 230, 230);
+}
+.personal-details,
+.personal-details th,
+.personal-details td,
+.personal-details tr{
+  border: 1px solid #000;
+}
+body{
+  background-image: url('../css/ramu.jpg');
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: 200px;
+}
+
